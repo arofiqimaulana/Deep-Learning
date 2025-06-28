@@ -5,6 +5,9 @@ Deep Learning adalah sub-bidang dari Machine Learning yang fokus pada penggunaan
 
 Deep learning memungkinkan komputer untuk belajar langsung dari data dengan sedikit atau tanpa intervensi manusia, dan telah digunakan untuk menghasilkan hasil luar biasa dalam berbagai aplikasi.
 
+## Bahan Ajar
+- [Convolutional Neural Networks (CNN)](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Deep%20Learning/Convolutional%20Neural%20Network%20(CNN))
+
 ## 🔍 Daftar Algoritma Deep Learning
 
 ### 📌 Jaringan Saraf Tiruan (Artificial Neural Networks - ANN)
