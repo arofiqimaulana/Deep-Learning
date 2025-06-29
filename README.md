@@ -50,7 +50,7 @@ Transformer adalah model deep learning yang sangat kuat untuk pemrosesan bahasa 
 - **MXNet** – Framework deep learning yang dikembangkan oleh Amazon.
 - **Theano** – Library deep learning yang sangat kuat namun sudah tidak aktif lagi.
 
-# 🛠️ Perbandingan Tools
+## 🛠️ Perbandingan Tools
 | **Fitur**               | **Keras**                          | **TensorFlow**                       | **PyTorch**                          |
 |-------------------------|------------------------------------|--------------------------------------|--------------------------------------|
 | **Tingkat Abstraksi**   | Tinggi (API tingkat tinggi)        | Menyediakan fleksibilitas lebih tinggi | Sedikit lebih rendah dibanding Keras, tapi sangat fleksibel |
