@@ -40,6 +40,7 @@ RBFN adalah jenis jaringan saraf yang menggunakan fungsi basis radial sebagai fu
 ### 📌 Transformer Networks
 Transformer adalah model deep learning yang sangat kuat untuk pemrosesan bahasa alami dan telah mengubah banyak aplikasi NLP modern. Transformer menggunakan mekanisme perhatian (attention mechanism) untuk memungkinkan pemrosesan data dalam urutan yang sangat panjang dan telah digunakan dalam model seperti BERT, GPT, dan T5.
 
+
 ## 🛠️ Tools dan Library Populer untuk Deep Learning
 
 - **TensorFlow** – Library open-source untuk komputasi numerik dan deep learning.
@@ -48,6 +49,16 @@ Transformer adalah model deep learning yang sangat kuat untuk pemrosesan bahasa 
 - **Caffe** – Framework deep learning yang digunakan dalam pengenalan gambar.
 - **MXNet** – Framework deep learning yang dikembangkan oleh Amazon.
 - **Theano** – Library deep learning yang sangat kuat namun sudah tidak aktif lagi.
+
+# 🛠️ Perbandingan Tools
+| **Fitur**               | **Keras**                          | **TensorFlow**                       | **PyTorch**                          |
+|-------------------------|------------------------------------|--------------------------------------|--------------------------------------|
+| **Tingkat Abstraksi**   | Tinggi (API tingkat tinggi)        | Menyediakan fleksibilitas lebih tinggi | Sedikit lebih rendah dibanding Keras, tapi sangat fleksibel |
+| **Kemudahan Penggunaan**| Sangat mudah digunakan             | Lebih sulit, tapi lebih fleksibel    | Lebih mudah dibanding TensorFlow, lebih fleksibel dibanding Keras |
+| **Fleksibilitas**       | Terbatas jika dibandingkan dengan PyTorch dan TensorFlow | Sangat fleksibel, terutama untuk aplikasi skala besar | Sangat fleksibel, terutama dalam penelitian |
+| **Dukungan Platform**   | Terintegrasi dengan TensorFlow, Theano, CNTK | Mendukung berbagai platform (mobile, cloud, embedded) | Kurang optimal untuk beberapa platform (terutama untuk mobile) |
+| **Penggunaan Umum**     | Model dasar, prototyping cepat     | Model kompleks, deployment skala besar | Penelitian, eksperimen, prototyping cepat |
+| **Dikembangkan**     | François Chollet, Google     | Google Brain Team | Facebook's AI Research (FAIR) |
 
 ## 📚 Referensi Belajar
 
