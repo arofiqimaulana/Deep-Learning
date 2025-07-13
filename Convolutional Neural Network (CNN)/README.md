@@ -51,13 +51,13 @@ CNN terdiri dari serangkaian lapisan yang bekerja bersama untuk mengekstrak fitu
 ### 🧪 Formula Convolution:
 Proses konvolusi dapat dijelaskan dengan rumus berikut:
 
-- $$ I_{out} = (I_{in} * F) + b $$
+$$ I_{out} = (I_{in} * F) + b $$
 
 Dimana:
-- $$ I_{out} $$ adalah output citra setelah konvolusi.
-- $$ I_{in} $$ adalah input citra.
-- $$ F $$ adalah filter/kernel.
-- $$ b $$ adalah bias yang ditambahkan ke hasil konvolusi.
+$$ I_{out} $$ adalah output citra setelah konvolusi.
+$$ I_{in} $$ adalah input citra.
+$$ F $$ adalah filter/kernel.
+$$ b $$ adalah bias yang ditambahkan ke hasil konvolusi.
 
 ## CNN in Practice with Python
 
