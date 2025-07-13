@@ -52,8 +52,8 @@ GRU adalah varian dari LSTM yang lebih sederhana dan lebih efisien dalam beberap
 ### Formula RNN
 RNN dapat digambarkan dengan formula berikut:
 
-- $$ h_t = 	anh(W_h \cdot [h_{t-1}, x_t] + b_h)  $$
-- $$ y_t = W_y \cdot h_t + b_y $$
+$$ h_t = 	anh(W_h \cdot [h_{t-1}, x_t] + b_h)  $$
+$$ y_t = W_y \cdot h_t + b_y $$
 
 Dimana:
 - $$ h_t $$ adalah hidden state pada waktu $$ t $$
